@@ -9,6 +9,6 @@
     "It's analogous to `chroot .` for npm. [:P]"
   ],
   "dependencies": {
-    "cldr-data-downloader": "^0.3.4"
+    "cldr-data-downloader": "^1.0.0"
   }
 }
